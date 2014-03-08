@@ -9,7 +9,8 @@ Usage of the retrieve script :
 scriptname.sh <emailadres> <password>
 
 The script will retrieve address data and temperature, gas & power consumption. Please be carefull not to run it to often, the API then stops returning all of the data.
-Once per 2 minutes is good.
+Once per 2 minutes is good.<br>
+If you have good ideas for the scripts and/or tools : Please create an issue or do a pull request!
 
-<br /><br /><br />
+<br />
 <b>I'm not in ANY WAY connected to Eneco. The scripts here are based on reverse engineering. I do not guarantee good working</b>
