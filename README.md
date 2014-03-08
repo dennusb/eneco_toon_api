@@ -1,7 +1,7 @@
 Eneco's Toon API
 ==============
 
-I'm publishing scripts and information here about Eneco's Toon API!
+<b>I'm publishing scripts and information here about Eneco's Toon API!</b>
 
 For the scripts you need to install 'JQ' on your system. Get it here : http://stedolan.github.io/jq/download/
 
